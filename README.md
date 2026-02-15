@@ -139,7 +139,7 @@ DEFENSA LEGAL, RESULTADOS REALES
 
 <header>
     <h1>BERVADÍ ABOGADOS</h1>
-    <p>Defendemos tus derechos con estrategia, experiencia y compromiso.</p>
+    <p>DefendemosCOMPROMISO LEGAL, RESULTADOS REALES.</p>
     <a href="https://wa.me/523320350961" class="btn" target="_blank">
         Agendar asesoría por WhatsApp
     </a>
