@@ -138,6 +138,7 @@ DEFENSA LEGAL, RESULTADOS REALES
 <body>
 
 <header>
+<img src="logo.png" alt="Logo BERVADÍ ABOGADOS" style="max-width:180px; margin-bottom:20px;">
     <h1>BERVADÍ ABOGADOS</h1>
     <p>DefendemosCOMPROMISO LEGAL, RESULTADOS REALES.</p>
     <a href="https://wa.me/523320350961" class="btn" target="_blank">
