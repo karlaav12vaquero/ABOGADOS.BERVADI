@@ -19,6 +19,10 @@ DEFENSA LEGAL, RESULTADOS REALES
             background-color: #f4f4f4;
             color: #222;
         }
+header img {
+    display: block;
+    margin: 0 auto 20px auto;
+}
 
         header {
             background: #0f172a;
