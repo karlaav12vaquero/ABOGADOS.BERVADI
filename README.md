@@ -71,12 +71,13 @@
         }
 
         .card {
-            background: white;
-            padding: 25px;
-            border-radius: 8px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
-            transition: 0.3s;
-        }
+    background: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    transition: 0.3s;
+    opacity: 1;
+}
 
         .card:hover {
             transform: translateY(-5px);
