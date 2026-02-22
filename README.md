@@ -1,5 +1,5 @@
 DEFENSA LEGAL, RESULTADOS REALES
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
